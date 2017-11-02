@@ -1,0 +1,7 @@
+header h2, .login-details{
+	display: inline-block;
+}
+.login-details{
+	float: right;
+	margin-top: 20px;
+}
